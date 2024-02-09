@@ -26,7 +26,6 @@ After the update:
 
 4. **Spreadsheet ID and Scope**: Make sure you have the ID of the Google Sheets spreadsheet you want to modify handy. Additionally, ensure that the Google Sheets API scope is correctly configured in your project.
 
-   You can find the Google Sheets spreadsheet [here](https://docs.google.com/spreadsheets/d/1bsGdEYP7TZSX1Deb99do54yzN4rjDW0VzFEHCseRwYk/edit?usp=sharing).
    
 ## Running the Script
 1. **Download the Code**: Download the provided Python code.
