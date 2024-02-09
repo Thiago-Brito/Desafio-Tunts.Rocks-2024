@@ -1,5 +1,5 @@
 # Challlenge TuntsRocks
-
+This challenge involves using the Google Sheets API to analyze student data stored in a Google Sheets spreadsheet. The goal is to calculate final grades and determine the students' status based on their grades and attendance. I chose to use Python to assist in this challenge.
 ## Prerequisites
 1. **Python**: Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 
@@ -11,8 +11,10 @@
 
 3. **Google Credentials**: You'll need Google credentials to access the Google Sheets API. Follow the instructions [here](https://developers.google.com/workspace/guides/create-credentials) to obtain the credentials (JSON file) and download the `client_secret.json` file.
 
-4. **Spreadsheet ID and Scope**: Have the ID of the Google Sheets spreadsheet you want to modify handy. Also, ensure that the Google Sheets API scope is set up correctly in the project.
+4. **Spreadsheet ID and Scope**: Make sure you have the ID of the Google Sheets spreadsheet you want to modify handy. Additionally, ensure that the Google Sheets API scope is correctly configured in your project.
 
+   You can find the Google Sheets spreadsheet [here](https://docs.google.com/spreadsheets/d/1bsGdEYP7TZSX1Deb99do54yzN4rjDW0VzFEHCseRwYk/edit?usp=sharing).
+   
 ## Running the Script
 1. **Download the Code**: Download the provided Python code.
 
