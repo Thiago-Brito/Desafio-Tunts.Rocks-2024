@@ -1,12 +1,17 @@
-# Challlenge TuntsRocks
+# Challenge TuntsRocks
 This challenge involves using the Google Sheets API to analyze student data stored in a Google Sheets spreadsheet. The goal is to calculate final grades and determine the students' status based on their grades and attendance. I chose to use Python to assist in this challenge.
 
 For example:
+<br>
 Before the update:
- ![Before]([https://github.com/Thiago-Brito/Portfolio/blob/main/readmeAssets/MHome.png](https://github.com/Thiago-Brito/Desafio-Tunts.Rocks-2024/edit/main/README.md))
-
+<br>
+<img src="https://github.com/Thiago-Brito/Desafio-Tunts.Rocks-2024/blob/main/images/before.png" alt="Before" width="700" height="400">
+<br>
+<br>
 After the update:
- ![After]([https://github.com/Thiago-Brito/Portfolio/blob/main/readmeAssets/MHome.png](https://github.com/Thiago-Brito/Desafio-Tunts.Rocks-2024/edit/main/README.md))
+<br>
+<img src="https://github.com/Thiago-Brito/Desafio-Tunts.Rocks-2024/blob/main/images/after.png" alt="After" width="700" height="400">
+
  
 ## Prerequisites
 1. **Python**: Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
