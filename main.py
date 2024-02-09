@@ -1,5 +1,6 @@
 import os.path
 import pandas as pd
+from math import ceil
 
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
@@ -67,7 +68,7 @@ def main():
         table['Final Approval Grade'] = 0
 
         # Calculate the final approval grade for students in the "Exame Final" situation
-        table.loc[table['Status'] == 'Exame Final', 'Final Approval Grade'] = ((100 - average.loc[table['Status'] == 'Exame Final'])).astype(int)
+        table.loc[table['Status'] == 'Exame Final', 'Final Approval Grade'] = ((100 - average.loc[table['Status'] == 'Exame Final'])).apply(ceil).astype(int)
 
         # Convert DataFrame to values compatible with Google Sheets API
         values_to_update = table[['Status', 'Final Approval Grade']].values.tolist()
