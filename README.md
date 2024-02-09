@@ -1,4 +1,4 @@
-# Challlenge TuntsRocks
+# Challenge TuntsRocks
 This challenge involves using the Google Sheets API to analyze student data stored in a Google Sheets spreadsheet. The goal is to calculate final grades and determine the students' status based on their grades and attendance. I chose to use Python to assist in this challenge.
 
 For example:
