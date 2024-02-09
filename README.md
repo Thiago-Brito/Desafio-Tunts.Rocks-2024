@@ -3,10 +3,11 @@ This challenge involves using the Google Sheets API to analyze student data stor
 
 For example:
 Before the update:
- ![Before](https://github.com/Thiago-Brito/Desafio-Tunts.Rocks-2024/blob/main/images/before.png)
+![Before](https://github.com/Thiago-Brito/Desafio-Tunts.Rocks-2024/blob/main/images/before.png){:height="50%" width="50%"}
 
 After the update:
- ![After] (https://github.com/Thiago-Brito/Desafio-Tunts.Rocks-2024/blob/main/images/after.png)
+![After](https://github.com/Thiago-Brito/Desafio-Tunts.Rocks-2024/blob/main/images/after.png){:height="50%" width="50%"}
+
  
 ## Prerequisites
 1. **Python**: Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
