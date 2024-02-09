@@ -2,13 +2,15 @@
 This challenge involves using the Google Sheets API to analyze student data stored in a Google Sheets spreadsheet. The goal is to calculate final grades and determine the students' status based on their grades and attendance. I chose to use Python to assist in this challenge.
 
 For example:
+<br>
 Before the update:
 <br>
-<img src="https://github.com/Thiago-Brito/Desafio-Tunts.Rocks-2024/blob/main/images/before.png" alt="Before" width="600" height="400">
+<img src="https://github.com/Thiago-Brito/Desafio-Tunts.Rocks-2024/blob/main/images/before.png" alt="Before" width="700" height="400">
+<br>
 <br>
 After the update:
 <br>
-<img src="https://github.com/Thiago-Brito/Desafio-Tunts.Rocks-2024/blob/main/images/after.png" alt="After" width="600" height="400">
+<img src="https://github.com/Thiago-Brito/Desafio-Tunts.Rocks-2024/blob/main/images/after.png" alt="After" width="700" height="400">
 
  
 ## Prerequisites
