@@ -3,10 +3,10 @@ This challenge involves using the Google Sheets API to analyze student data stor
 
 For example:
 Before the update:
-![Before](https://github.com/Thiago-Brito/Desafio-Tunts.Rocks-2024/blob/main/images/before.png){:height="50%" width="50%"}
+<img src="https://github.com/Thiago-Brito/Desafio-Tunts.Rocks-2024/blob/main/images/before.png" alt="Before" width="400" height="300">
 
 After the update:
-![After](https://github.com/Thiago-Brito/Desafio-Tunts.Rocks-2024/blob/main/images/after.png){:height="50%" width="50%"}
+<img src="https://github.com/Thiago-Brito/Desafio-Tunts.Rocks-2024/blob/main/images/after.png" alt="After" width="400" height="300">
 
  
 ## Prerequisites
